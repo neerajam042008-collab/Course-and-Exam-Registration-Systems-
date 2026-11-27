@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240099
+# Name:NEERAJA MADASAMY
+# Date:28/11/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1323" height="653" alt="exam use case" src="https://github.com/user-attachments/assets/00ab3eb3-085b-4ad6-97a2-e0c5604dcc57" />
 
 
 
@@ -78,6 +79,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1101" height="550" alt="exam package" src="https://github.com/user-attachments/assets/42c10075-2176-431d-b66c-b50c6fb3b22f" />
 
 
 
@@ -119,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1112" height="550" alt="exam sequence" src="https://github.com/user-attachments/assets/60d9063e-30b5-4db7-9996-c8d2eac19b05" />
 
 
 
